@@ -16,6 +16,8 @@ resolving [pmmp/PocketMine-MP#3127](https://github.com/pmmp/PocketMine-MP/issues
 3. Make a directory called `packs`, put resource packs in it
 4. Run the command: `npm install && npm run start`
 
+The URL to download the resource pack is `http://<your-ip>:<port>/<pack-name>`
+
 To change the port, edit `.env` file.
 
 ### Warning
