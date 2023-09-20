@@ -12,8 +12,9 @@ resolving [pmmp/PocketMine-MP#3127](https://github.com/pmmp/PocketMine-MP/issues
 # Setup
 
 1. Make sure you have installed Node.js (or Bun) and NPM
-2. Make a directory called `packs`, put resource packs in it
-3. Run the command: `npm install && npm run start`
+2. Clone this repository
+3. Make a directory called `packs`, put resource packs in it
+4. Run the command: `npm install && npm run start`
 
 To change the port, edit `.env` file.
 
